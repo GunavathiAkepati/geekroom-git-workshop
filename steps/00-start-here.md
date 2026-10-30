@@ -45,7 +45,7 @@ Write your username down. In later steps `<your-username>` means this.
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I can explain the difference between Git and GitHub in one sentence
 - [ ] I can log in at <https://github.com>

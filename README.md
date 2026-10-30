@@ -27,8 +27,9 @@ Everything is done from **VS Code** (with the terminal commands shown next to th
 1. Do the steps **in order**. Each one is a file in [`steps/`](steps/).
 2. Steps 3 to 9 happen in a **practice repo called `pizza-station`** that you create yourself. It's yours, so you can't break anything here.
 3. Steps 10 to 12 happen **in this repo**, through a fork and a pull request.
-4. Every step ends with a ✅ **Checkpoint**. Make sure you pass it before moving on.
-5. Stuck? Try [`reference/troubleshooting.md`](reference/troubleshooting.md). Need a word explained? See [`reference/glossary.md`](reference/glossary.md).
+4. Every step ends with a ✅ **Self-check**: a short list to confirm you're good before moving on.
+5. Three steps also have a 🚩 **Checkpoint**: a short timed activity to do with a partner (see [Checkpoints](#checkpoints)).
+6. Stuck? Try [`reference/troubleshooting.md`](reference/troubleshooting.md). Need a word explained? See [`reference/glossary.md`](reference/glossary.md).
 
 ---
 
@@ -49,6 +50,18 @@ Everything is done from **VS Code** (with the terminal commands shown next to th
 | 10 | [Fork and clone](steps/10-fork-and-clone.md) | Copying a restaurant's recipe | Get a copy of this repo |
 | 11 | [Your first pull request](steps/11-your-first-pull-request.md) | Serving your pizza to the table | Add yourself to `participants/` |
 | 12 | [A conflict in a real PR](steps/12-conflict-in-a-real-pr.md) | Everyone orders at once | Resolve a conflict on a real pull request |
+
+---
+
+## Checkpoints
+
+Short timed activities. Do them with a partner and show each other your result.
+
+| 🚩 | Where | Time | The task |
+|---|---|---|---|
+| [Checkpoint 3: First commit](steps/05-logs-and-reverting.md#-checkpoint-3-first-commit) | End of Step 5 | 5 min, solo + show a partner | New folder → init → `menu.txt` → commit → find the hash |
+| [Checkpoint 4: Merge conflict](steps/07-merge-conflicts.md#-checkpoint-4-merge-conflict) | End of Step 7 | 3 min, pairs | Resolve `"blue"` vs `"red"` to one line; what must be removed? |
+| [Checkpoint 5: Remote sync](steps/09-local-vs-remote.md#-checkpoint-5-remote-sync) | End of Step 9 | 3 min, pairs | Pick push / fetch / pull for three jobs; why doesn't a commit update GitHub? |
 
 ---
 

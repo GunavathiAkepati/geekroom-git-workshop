@@ -136,7 +136,7 @@ You can delete your `add-<your-username>` branch now: **`Git: Delete Branch...`*
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] My PR is open: base `Sw4ppleneel/geekroom-git-workshop:main`, compare `<me>:add-<me>`
 - [ ] **Files changed** shows only `participants/<my-username>.md`

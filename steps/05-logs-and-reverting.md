@@ -91,7 +91,30 @@ Rule of thumb: **if other people might already have the commit, revert. If it's 
 
 ---
 
-## ✅ Checkpoint
+## 🚩 Checkpoint 3: First commit
+
+**5 min in VS Code. Use a new practice folder.**
+
+1. **Initialize** a repository.
+2. Create **`menu.txt`** with your favourite topping.
+3. **Stage** it and **commit**: `Add pizza menu`
+4. **Find the commit** in the history.
+
+**Show a partner the message and the commit hash.**
+
+> ⚠️ "New practice folder" means a **separate** one, for example `pizza-menu`. Don't create it inside `pizza-station`, or you'll nest one repository inside another.
+
+Need a reminder?
+
+| Task | Where |
+|---|---|
+| Initialize | [Step 3](03-repository-and-directories.md#2-initialise-it) |
+| Stage and commit | [Step 4](04-staging-and-committing.md) |
+| Find the commit | Source Control → **Graph**, or `git log --oneline` (above) |
+
+---
+
+## ✅ Self-check
 
 - [ ] I can find a commit's hash, author, date and message in the Graph or `git log`
 - [ ] I reverted the pineapple commit and the original commit is still in my history

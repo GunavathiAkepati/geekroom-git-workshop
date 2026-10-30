@@ -87,7 +87,7 @@ Say **what changed**, in one short plain sentence.
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I staged a single file and then unstaged it
 - [ ] I made three commits in `pizza-station`

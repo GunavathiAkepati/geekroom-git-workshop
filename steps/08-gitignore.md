@@ -88,7 +88,7 @@ Stage and commit `.gitignore` with the message `Add .gitignore`. (You **do** com
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] `oven.log` and `secrets.env` don't appear in Source Control
 - [ ] `.gitignore` itself is committed

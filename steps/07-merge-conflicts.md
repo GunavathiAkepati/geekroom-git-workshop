@@ -156,7 +156,30 @@ Started a merge and want to leave? **Command Palette → `Git: Abort Merge`** (t
 
 ---
 
-## ✅ Checkpoint
+## 🚩 Checkpoint 4: Merge conflict
+
+**3 min in pairs. Both branches edit the same line.**
+
+```text
+main:    color = "blue"
+feature: color = "red"
+```
+
+1. **Agree on one final line** and write it down.
+2. Answer: **what must you remove before staging and committing the resolved file?**
+
+<details>
+<summary>Check your answer</summary>
+
+You must remove **all three conflict marker lines**: `<<<<<<<`, `=======` and `>>>>>>>`, along with whichever version you decided not to keep. Then save, **stage**, and **commit**.
+
+Your one final line can be `color = "blue"`, `color = "red"`, or something you both agree on. What matters is that there is exactly **one** line and **no markers** left. If you want to see it for real, reproduce it with two branches the way you did with the cheese above.
+
+</details>
+
+---
+
+## ✅ Self-check
 
 - [ ] I know what `<<<<<<<`, `=======` and `>>>>>>>` mean
 - [ ] I caused a conflict and resolved it in VS Code

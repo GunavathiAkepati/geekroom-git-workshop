@@ -135,7 +135,7 @@ Open `toppings/`: all three toppings files are on `main` now. The family pizza i
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I created three branches and saw files appear and disappear as I switched
 - [ ] My first merge was a **fast-forward** (a straight line in the Graph)

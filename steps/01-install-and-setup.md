@@ -113,7 +113,7 @@ git config --global --list
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] `git --version` prints a version in the VS Code terminal
 - [ ] `git config --global --list` shows my name and email

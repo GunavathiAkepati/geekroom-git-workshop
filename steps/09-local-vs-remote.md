@@ -148,7 +148,36 @@ So your computer can be **out of date** without knowing. GitHub doesn't tell it 
 
 ---
 
-## ✅ Checkpoint
+## 🚩 Checkpoint 5: Remote sync
+
+**3 min in pairs. Choose `push`, `pull` or `fetch`.**
+
+For each job, decide which command you'd use:
+
+1. **Share** your new local commits.
+2. **Inspect** remote updates **without merging**.
+3. **Bring** remote updates into your branch.
+
+Then explain: **why does a commit alone not update GitHub?**
+
+<details>
+<summary>Check your answers</summary>
+
+| Job | Command |
+|---|---|
+| 1. Share your new local commits | **`git push`** (local → remote) |
+| 2. Inspect remote updates without merging | **`git fetch`** (downloads, but doesn't touch your files) |
+| 3. Bring remote updates into your branch | **`git pull`** (fetch + merge) |
+
+**Why a commit alone doesn't update GitHub:** a commit only saves a snapshot into your **local** repository (the `.git` folder on your computer). GitHub is a **separate copy**, and it only changes when you **push** to it.
+
+You can prove it with the hands-on above: after your local commit, the status bar shows **↑1** and GitHub still shows the old version until you push.
+
+</details>
+
+---
+
+## ✅ Self-check
 
 - [ ] `pizza-station` exists on GitHub and `secrets.env` is **not** in it
 - [ ] `git remote -v` shows `origin`

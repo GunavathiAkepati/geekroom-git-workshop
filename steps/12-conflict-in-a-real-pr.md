@@ -129,7 +129,7 @@ fetch upstream → merge it into your branch → resolve → commit → push →
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I opened a PR that changed `exercises/cheese-order.md`
 - [ ] If it conflicted, I merged `upstream/main` into my branch and resolved it in VS Code

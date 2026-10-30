@@ -60,7 +60,7 @@ You'll meet each row of the table in order:
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I can say what a **repository**, a **commit** and a **branch** are in pizza terms
 - [ ] I know the staging area is the **pizza base** where toppings wait before baking

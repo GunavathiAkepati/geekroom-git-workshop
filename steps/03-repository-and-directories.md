@@ -83,7 +83,7 @@ Now look at Source Control: the files show up under **Changes** with a green **U
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] The bottom-left of VS Code shows `main`
 - [ ] My folder has `docs/`, `data/` and `app/`, each with a file

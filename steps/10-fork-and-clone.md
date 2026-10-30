@@ -87,7 +87,7 @@ You can't push to `upstream`, and you shouldn't need to. Changes get there throu
 
 ---
 
-## ✅ Checkpoint
+## ✅ Self-check
 
 - [ ] I have a fork at `github.com/<my-username>/geekroom-git-workshop`
 - [ ] The repo is cloned on my machine and VS Code shows `main`
